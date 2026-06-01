@@ -1,10 +1,10 @@
 SQL Data Analysis Portfolio - AdventureWorks
 
-📌 Descripción del Proyecto
+Descripción del Proyecto
 
 Este repositorio contiene una serie de consultas y reportes de bases de datos relacionales desarrollados en Microsoft SQL Server. El análisis fue realizado sobre la base de datos corporativa AdventureWorks2022, simulando requerimientos reales de negocio para distintos departamentos (Recursos Humanos, Dirección y Control de Inventarios).
 
-🛠️ Herramientas y Tecnologías
+Herramientas y Tecnologías
 
 Motor de Base de Datos: SQL Server 2022
 
@@ -12,7 +12,7 @@ Entorno de Desarrollo: SQL Server Management Studio (SSMS)
 
 Técnicas Aplicadas: Joins (INNER, LEFT), Funciones de Agregación (SUM, AVG, COUNT), Agrupaciones (GROUP BY, HAVING), Alias y Filtrado avanzado.
 
-📂 Consultas y Reportes (Archivos en este repositorio)
+Consultas y Reportes (Archivos en este repositorio)
 
 1. [01_Reporte_Vacaciones_RH.sql]
 
